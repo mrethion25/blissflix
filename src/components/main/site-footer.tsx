@@ -66,7 +66,7 @@ const SiteFooter = () => {
             rel="noreferrer"
             className="font-medium underline underline-offset-4"
           >
-            GitHub
+            BliNime
           </a>
           .
         </p>

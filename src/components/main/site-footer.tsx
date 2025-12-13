@@ -59,7 +59,7 @@ const SiteFooter = () => {
           >
             {siteConfig.author}
           </a>
-          . The source code is available on{" "}
+          . better anime streaming on {" "}
           <a
             href={siteConfig.links.github}
             target="_blank"
